@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "IMAP-Client-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"socket",
+		"smtp"
+	],
+	"name" : "IMAPClientTest",
+	"type" : "normal"
+}

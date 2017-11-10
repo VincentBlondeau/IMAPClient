@@ -1,8 +1,5 @@
-accessing
+private protocol
 login
-	| response |
-	client ifNil: [^ self client].
-	client port: port.
-	response := client login: server user: username password: password.
-	response = 'OK' ifFalse: [self error: 'Unable to log into IMAP'].
+	self client port: self port.
+	self client login: self server user: self username password: self password.
 	self select: 'inbox'

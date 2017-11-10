@@ -1,3 +1,3 @@
-as yet unclassified
+commands
 close
 	client ifNotNil: [client close]
