@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "IMAP-Client-Util",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"IpAddr"
+	],
+	"instvars" : [ ],
+	"name" : "MyIP",
+	"type" : "normal"
+}

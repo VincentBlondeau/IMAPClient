@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "IMAP-Client-SMTP",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"client",
+		"server",
+		"port",
+		"fullname",
+		"emailAddr",
+		"username",
+		"password"
+	],
+	"name" : "SMTPAccount",
+	"type" : "normal"
+}
