@@ -1,4 +1,4 @@
-accessing
+exampl
 searchAndFetchExample
 	"
 	IMAPAccount eastBmd searchAndFetchExample

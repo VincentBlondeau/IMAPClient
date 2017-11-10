@@ -1,3 +1,0 @@
-acccessing
-selectedBox
-	^ selectedBox
