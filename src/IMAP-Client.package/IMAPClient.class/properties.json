@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "TelnetProtocolClient",
+	"category" : "IMAP-Client-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pretag",
+		"tagseq",
+		"thistag",
+		"state",
+		"folders",
+		"selectedBox",
+		"fetchResults",
+		"searchResults"
+	],
+	"name" : "IMAPClient",
+	"type" : "normal"
+}
